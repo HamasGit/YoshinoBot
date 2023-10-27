@@ -52,10 +52,10 @@ node index.js --code (jika ingin menggunakan otp atau 1 hp)
 `./config.json`
 ```ts
 {
-  "ownerNumber": "6281575886399@s.whatsapp.net",
-  "pairingNumber": "masukin nomer yang ingin dijadikan bot",
+  "ownerNumber": "6283844423640@s.whatsapp.net",
+  "pairingNumber": "628385566019",
   "ownerName": "rc",
-  "botName": "Yoshino Bot",
+  "botName": "Phie Bot",
   "packname": "follow",
   "author": "@riycoders",
   "pathimg": "./media/yoshino.jpg",
